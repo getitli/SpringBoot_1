@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBoot_DomeOne
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 木兮
+Implementation-Vendor-Id: springBoot
+Build-Jdk: 1.8.0_144
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringBoot_DomeOne
+Created-By: Maven Integration for Eclipse
+
